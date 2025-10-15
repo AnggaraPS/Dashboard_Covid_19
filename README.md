@@ -57,16 +57,10 @@ Before importing into Tableau:
 - 📉 Some regions show low case numbers but high death rates, indicating potential under-reporting or healthcare strain.
 - 📊 National trend is flattening toward late 2022, indicating improved control measures.
 
-## 📁 Repository Contents
-
-- `README.md`: This file
-- `screenshots/`: Folder for dashboard preview images
-- `link.txt`: Contains the Tableau Public dashboard URL
-
 ## 📬 Contact
 
 For questions or collaboration opportunities:
 
 **Anggara Prima Sektiaji**  
 📧 anggaraprima011002@gmail.com  
-🔗 [LinkedIn](#) *(replace with your profile link)*  
+🔗 [LinkedIn](#) 
